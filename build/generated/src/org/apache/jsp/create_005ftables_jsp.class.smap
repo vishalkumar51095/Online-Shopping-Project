@@ -1,0 +1,11 @@
+SMAP
+create_005ftables_jsp.java
+JSP
+*S JSP
+*F
++ 0 create_tables.jsp
+create_tables.jsp
+*L
+1,29:49
+29:78
+*E
